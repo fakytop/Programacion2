@@ -1,0 +1,291 @@
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.exe
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.deps.json
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.runtimeconfig.json
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.dll
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.pdb
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.Views.dll
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.Views.pdb
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.AssemblyInfo.cs
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.RazorAssemblyInfo.cache
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.RazorAssemblyInfo.cs
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationOblPart2.StaticWebAssets.Manifest.cache
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationOblPart2.StaticWebAssets.xml
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplicationOblPart2.styles.css
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.TagHelpers.input.cache
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.TagHelpers.output.cache
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.RazorCoreGenerate.cache
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.RazorTargetAssemblyInfo.cache
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.RazorTargetAssemblyInfo.cs
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.Views.pdb
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.dll
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.pdb
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.genruntimeconfig.cache
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.csproj.CopyComplete
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\usuario\source\repos\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Actividades\ListaActividades.cshtml.g.cs
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.exe
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.deps.json
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.runtimeconfig.json
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.dll
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.pdb
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.Views.dll
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.Views.pdb
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationOblPart2.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationOblPart2.StaticWebAssets.xml
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplicationOblPart2.styles.css
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.TagHelpers.input.cache
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.TagHelpers.output.cache
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.RazorCoreGenerate.cache
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Actividades\ListaActividades.cshtml.g.cs
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Registro.cshtml.g.cs
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.Views.pdb
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.csproj.CopyComplete
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.dll
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.pdb
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.genruntimeconfig.cache
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Cerrado\Index.cshtml.g.cs
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Abierto\Index.cshtml.g.cs
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Compra\Index.cshtml.g.cs
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Compra\CompraEntradas.cshtml.g.cs
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.exe
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.deps.json
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.runtimeconfig.json
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.dll
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.pdb
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.Views.dll
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\WebApplicationOblPart2.Views.pdb
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationOblPart2.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationOblPart2.StaticWebAssets.xml
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplicationOblPart2.styles.css
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.TagHelpers.input.cache
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.TagHelpers.output.cache
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.RazorCoreGenerate.cache
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Abierto\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Actividades\ListaActividades.cshtml.g.cs
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Cerrado\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Compra\CompraEntradas.cshtml.g.cs
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Compra\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Registro.cshtml.g.cs
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.Views.pdb
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.csproj.CopyComplete
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.dll
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.pdb
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.genruntimeconfig.cache
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Documentos\Universidad ORT\1.2 Programación 2\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Documentos\Universidad ORT\1.2 Programación 2\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Documentos\Universidad ORT\1.2 Programación 2\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.AssemblyInfoInputs.cache
+C:\Users\usuario\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Documentos\Universidad ORT\1.2 Programación 2\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.AssemblyInfo.cs
+C:\Users\usuario\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Documentos\Universidad ORT\1.2 Programación 2\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Documentos\Universidad ORT\1.2 Programación 2\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usuario\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Documentos\Universidad ORT\1.2 Programación 2\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.RazorAssemblyInfo.cache
+C:\Users\usuario\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Documentos\Universidad ORT\1.2 Programación 2\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.RazorAssemblyInfo.cs
+C:\Users\usuario\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Documentos\Universidad ORT\1.2 Programación 2\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.dll
+C:\Users\usuario\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Documentos\Universidad ORT\1.2 Programación 2\WebApplicationOblPart2\WebApplicationOblPart2\obj\Debug\netcoreapp3.1\WebApplicationOblPart2.pdb
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\WebApplicationOblPart2\WebApplicationOblPart2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll

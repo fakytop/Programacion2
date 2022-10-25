@@ -1,0 +1,96 @@
+﻿@using Dominio;
+@using Microsoft.AspNetCore.Http;
+@model List<Compra>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1>Listado de compras</h1>
+
+<form action="/Compra/FiltroCompra" method="Post">
+    <label>Seleccione Fechas:</label>
+    <input type="date" name="fechaDesde" />
+    <input type="date" name="fechaHasta" />
+    <button type="submit" id="btnFiltrar">Filtrar</button>
+</form>
+@if (@Context.Session.GetString("rol") == "OPERADOR")
+{
+    <a href="/Compra/MasCaras">La compra más cara</a>
+
+}
+
+<table class="table">
+    <thead class="table-light">
+        <tr>
+            <th>
+                #Id
+            </th>
+            <th>
+                Actividad
+            </th>
+            <th>
+                Q Boletos
+            </th>
+            <th>
+                Usuario
+            </th>
+            <th>
+                Fecha Compra
+            </th>
+            <th>
+                Total Compra
+            </th>
+            @if (@Context.Session.GetString("rol") == "CLIENTE")
+            {
+
+
+                <th>
+
+                </th>
+                <th>
+
+                </th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Compra item in ViewBag.Compras)
+        {
+            <tr>
+                <td>
+                    #@item.Id
+                </td>
+                <td>
+                    @item.Actividad.Nombre
+                </td>
+                <td>
+                    @item.CantidadDeCompra
+                </td>
+                <td>
+                    @item.UsuarioCompra.Nombre
+                </td>
+                <td>
+                    @item.FechayHoraCompra
+                </td>
+                <td>
+                    @item.TotalCompra()
+                </td>
+                @if (@Context.Session.GetString("rol") == "CLIENTE")
+                {
+                    <td>
+                        <a href="/Compra/darMeGusta?idCompra=@item.Id">Me Gusta</a>
+                    </td>
+                    <td>
+                        <a href="/Compra/CancelarCompra?idCompra=@item.Id">Cancelar</a>
+                    </td>
+                }
+
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h2>La suma de las compras es: @ViewBag.SumaTotal</h2>

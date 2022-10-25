@@ -1,0 +1,133 @@
+﻿@using Dominio;
+@model List<Actividad>;
+@using Microsoft.AspNetCore.Http;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1>Lista de Actividades</h1>
+
+<form action="/Actividades/FiltroCategoria" method="post">
+    <label for="categoria">Buscar por Categoria</label>
+    <select name="categoria" id="categoria">
+        @foreach (Categoria item in ViewBag.FiltroCategoria)
+        {
+            <option value="@item.Nombre">@item.Nombre</option>
+        }
+
+    </select>
+    <label>Desde:</label>
+    <input name="fechaDesde" id="fechaDesde" type="date" />
+    <label>Hasta:</label>
+    <input name="fechaHasta" id="fechaHasta" type="date" />
+    <button name="btnFiltrar" id="btnFiltrar" type="submit">Buscar</button>
+</form>
+
+<form action="/Actividades/FiltroPorPublico" method="post">
+    <button name="btnPublico" id="btnPublico" type="submit">Buscar ATP</button>
+</form>
+
+<div>
+    <label for="nombreLugar">Seleccione Lugar:</label>
+    <select id="nombreLugar">
+        @foreach (Lugar item in ViewBag.ListaLugares)
+        {
+            <option value="@item.Nombre">@item.Nombre</option>
+        }
+    </select>
+    <button type="button" id="btnSlctLugar">Filtrar</button>
+</div>
+
+@if (@ViewBag.Error == false)
+{
+    <div class="alert alert-warning" role="alert">
+      Error.
+    </div>
+}
+
+<table class="table table-striped">
+    <tr>
+        <th>
+            Id
+        </th>
+        <th>
+            Nombre
+        </th>
+        <th>
+            Categoría
+        </th>
+        <th>
+            Fecha
+        </th>
+        <th>
+            Lugar
+        </th>
+        <th>
+            Apto
+        </th>
+        <th>
+            Precio
+        </th>
+        <th>
+            Cant. Me Gusta
+        </th>
+        @if (@Context.Session.GetString("rol") == "CLIENTE")
+        {
+            <th>
+                Comprar Entradas
+
+            </th>
+        }
+    </tr>
+    <tr>
+        @foreach (Actividad item in ViewBag.Actividades)
+        {
+        <tr>
+            <td>
+                @item.Id
+            </td>
+            <td>
+                @item.Nombre
+            </td>
+            <td>
+                @item.Categoria.Nombre
+            </td>
+            <td>
+                @item.Fecha
+            </td>
+            <td>
+                @item.Lugar.Nombre
+            </td>
+            <td>
+                @item.TipoPublico
+            </td>
+            <td>
+                $@item.CalcularCostoFinal()
+            </td>
+            <td>
+                @item.QMeGusta
+            </td>
+            @if (@Context.Session.GetString("rol") == "CLIENTE")
+            {
+                <td>
+                    <a href="/Compra/CompraEntradas/@item.Id" id="Comprar" type="submit">Comprar</a>
+                </td>
+            }
+        </tr>
+    }
+    </table>
+
+    @section Scripts
+    {
+        <script>
+            let button = document.getElementById("btnSlctLugar");
+
+            button.addEventListener("click", () => {
+                const lugar = document.getElementById("nombreLugar").value;
+                window.location.href = `/Actividades/ActividadesPorLugar?nombreLugar=${lugar}`;
+            })
+
+        </script>
+    }

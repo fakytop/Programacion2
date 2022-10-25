@@ -1,0 +1,49 @@
+C:\Users\usuario\Desktop\E-81604-2 (1)\dnc-ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\E-81604-2 (1)\dnc-ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\E-81604-2 (1)\dnc-ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\usuario\Desktop\E-81604-2 (1)\dnc-ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\E-81604-2 (1)\dnc-ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\usuario\Desktop\E-81604-2 (1)\dnc-ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\usuario\Desktop\E-81604-2 (1)\dnc-ObligatorioP2\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\usuario\Desktop\E-81604-2 (1)\dnc-ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\usuario\Desktop\E-81604-2 (1)\dnc-ObligatorioP2\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\usuario\source\repos\WebApplicationOblPart2\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\usuario\source\repos\WebApplicationOblPart2\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\usuario\source\repos\WebApplicationOblPart2\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\usuario\source\repos\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\usuario\source\repos\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\usuario\source\repos\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Usuario\Desktop\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Usuario\Desktop\OBLIGATORIO VERSION DOMINGO - HORA 21-00\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\usuario\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Documentos\Universidad ORT\1.2 Programación 2\WebApplicationOblPart2\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\usuario\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Documentos\Universidad ORT\1.2 Programación 2\WebApplicationOblPart2\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\usuario\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Documentos\Universidad ORT\1.2 Programación 2\WebApplicationOblPart2\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\usuario\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Documentos\Universidad ORT\1.2 Programación 2\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Documentos\Universidad ORT\1.2 Programación 2\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Documentos\Universidad ORT\1.2 Programación 2\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\usuario\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Documentos\Universidad ORT\1.2 Programación 2\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\usuario\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Documentos\Universidad ORT\1.2 Programación 2\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Documentos\Universidad ORT\1.2 Programación 2\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\usuario\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Documentos\Universidad ORT\1.2 Programación 2\WebApplicationOblPart2\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb

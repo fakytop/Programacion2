@@ -1,0 +1,22 @@
+﻿@using Dominio;
+@model Compra
+@using Microsoft.AspNetCore.Http;
+
+
+<h1>Compra de entradas</h1>
+
+
+
+
+<form method="post" action="/Compra/CompraEntradas">
+
+    <label for="qEntradas"> Cantidad de entradas:</label>
+    <input name="qEntradas" id="qEntradas" type="number" />
+    <input name="idActividad" type="number" hidden value="@ViewBag.IdActividad" />
+    <br />
+
+    <button id="button" type="submit">Finalizar Compra</button>
+    @*submit hace que todos los atributos del form viajen al controller*@
+
+    
+</form>

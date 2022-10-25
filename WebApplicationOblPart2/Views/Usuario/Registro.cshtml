@@ -1,0 +1,62 @@
+﻿@using Dominio;
+@model Usuario;
+@using Microsoft.AspNetCore.Http;
+
+
+@{
+    ViewData["Tittle"] = "Registro";
+}
+
+<h1>Registro De Usuario</h1>
+
+@if (ViewBag.Mensaje != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.Mensaje
+    </div>
+}
+
+
+<form method="post" action="/Usuario/GuardarRegistro">
+    <label for="Nombre"> Nombre:</label><br />
+    <input value="@Model.Nombre" name="Nombre" id="Nombre" type="text" required/>
+    <br />
+    <label for="Apellido"> Apellido:</label><br />
+    <input value="@Model.Apellido" name="Apellido" id="Apellido" type="text" required/>
+    <br />
+    <label for="FechaNacimiento"> Fecha de nacimiento:</label><br />
+    <input value="@Model.FechaNacimiento" name="FechaNacimiento" id="FechaNacimiento" type="date" required/>
+    <br />
+    <label for="EMail">E-mail:</label><br />
+    <input value="@Model.EMail" name="EMail" id="EMail" type="email" required/>
+    <br />
+    <label for="NombreUsuario"> Nombre de Usuario:</label><br />
+    <input value="@Model.NombreUsuario" name="NombreUsuario" id="NombreUsuario" type="text" required/>
+    <br />
+    <label for="Contrasena"> Cotraseña:</label><br />
+    <input value="@Model.Contrasena" name="Contrasena" id="Contrasena" type="password" required/>
+    <br /><br />
+    <button id="button" type="submit">Registrar</button>
+    @*submit hace que todos los atributos del form viajen al controller*@
+</form>
+
+
+
+
+@section Scripts
+{
+
+
+    <script>
+
+        document.querySelector("#button").addEventListener("click", onC);
+
+        function onC() {
+
+            //alert("registro ok");
+        }
+
+
+
+    </script>
+}

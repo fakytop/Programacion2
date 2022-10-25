@@ -1,0 +1,40 @@
+﻿@using Dominio;
+@model Abierto;
+@using Microsoft.AspNetCore.Http;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{ }
+
+<h1>Cambiar Precio Butaca</h1>
+
+<label for="cambiarPrecioButaca"> Ingresar Nuevo Precio de Butaca</label>
+<input name="cambiarPrecioButaca" id="cambiarPrecioButaca" type="text" />
+<input name="botonCambiarPrecioButaca" id="botonCambiarPrecioButaca" type="submit" />
+
+
+
+@if (@ViewBag.PrecioPorButaca == null)
+{
+
+}
+else if (!@ViewBag.PrecioPorButaca)
+{
+<div class="alert alert-danger" role="alert">
+    No se ha podido cambiar el precio, verifique los datos
+</div> }
+else
+{
+<div class="alert alert-success" role="alert">
+    Se cambio el precio correctamente
+</div>}
+
+@section Scripts
+{
+    <script>
+    const button = document.getElementById("botonCambiarPrecioButaca");
+        button.addEventListener("click", () => {
+            let butacaPrecio = parseInt(document.querySelector("#cambiarPrecioButaca").value)
+            window.location.href = `/Abierto/CambiarPrecioButaca?precioButaca=${butacaPrecio}`;
+        })</script>
+}

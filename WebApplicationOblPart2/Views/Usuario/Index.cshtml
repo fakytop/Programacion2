@@ -1,0 +1,49 @@
+﻿@using Dominio;
+@model List<Usuario>;
+@using Microsoft.AspNetCore.Http;
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1>Lista de Usuarios</h1>
+
+<table class="table table-striped">
+    <tr>
+        <th>
+            Id
+        </th>
+        <th>
+            Nombre
+        </th>
+        <th>
+            Apellido
+        </th>
+        <th>
+            Usuario
+        </th>
+    </tr>
+    @foreach (Usuario item in ViewBag.usuarios)
+    {
+        if (item.Rol == "CLIENTE")
+        {
+            <tr>
+                <td>
+                    @item.Id
+                </td>
+                <td>
+                    @item.Nombre
+                </td>
+                <td>
+                    @item.Apellido
+                </td>
+                <td>
+                    @item.NombreUsuario
+                </td>
+            </tr>
+        }
+
+    }
+</table>

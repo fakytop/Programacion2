@@ -1,0 +1,43 @@
+﻿@using Dominio;
+@model Cerrado;
+@using Microsoft.AspNetCore.Http;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1>Cambiar Aforo</h1>
+
+<label for="cambiarAforo"> Ingresar Nuevo Aforo</label>
+<input name="cambiarAforo" id="cambiarAforo" type="text" />
+<input name="botonCambiarAforo" id="botonCambiarAforo" type="submit" />
+
+@if (@ViewBag.Aforo == null)
+{
+
+}
+else if (!@ViewBag.Aforo)
+{
+    <div class="alert alert-danger" role="alert">
+        Error al intentar modificar, intente nuevamente!
+    </div>
+}
+else
+{
+    <div class="alert alert-success" role="alert">
+        El Aforo se ha modificado con éxito.
+    </div>
+}
+
+@section Scripts
+{
+    <script>
+        const button = document.getElementById("botonCambiarAforo");
+        button.addEventListener("click", () => {
+            let aforo = parseInt(document.querySelector("#cambiarAforo").value)
+            window.location.href = `/Cerrado/CambiarAforo?aforo=${aforo}`;
+        })
+    </script>
+}
+
